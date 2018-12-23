@@ -3,7 +3,7 @@ Pygame Blocks
 Creating images during runtime.
 * Simple 2d blocks
 
-![alt text](https://github.com/Windspar//Pygame Blocks)
+![](https://github.com/Windspar/Pygame Blocks/BlockShape1.png)
 
 ## Requirements ##
 * Made in linux (Antergos (Arch Linux))
